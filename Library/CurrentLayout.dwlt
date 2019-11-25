@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 548}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
-  controlID: 48
+  controlID: 44
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -150,7 +150,7 @@ MonoBehaviour:
     y: 0
     width: 1904
     height: 979
-  m_MinSize: {x: 950, y: 548}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 49
+  controlID: 45
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 50
+  controlID: 46
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -400,15 +400,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: "C:\\Users\\LYG\\Desktop\\2019 2\uD559\uAE30\\\uC778\uCEF4\uC0AC\\\uD504\uB85C\uC81D\uD2B8\\20191122\\HCI-master
-    - \uBCF5\uC0AC\uBCF8\\The-Silent-Maze"
+  m_LastProjectPath: C:\Users\LYG\Desktop\2019 2nd\HCI\project\20191124\HCI-master\The-Silent-Maze
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 3e270000
-    m_LastClickedID: 10046
-    m_ExpandedIDs: 000000003e270000882b0000b22c0000e42c000000ca9a3b
+    m_SelectedIDs: 662b0000
+    m_LastClickedID: 11110
+    m_ExpandedIDs: 00000000662b00008a3500004e390000f239000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -436,7 +435,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000003e270000882b0000b22c0000e42c0000
+    m_ExpandedIDs: 00000000662b00008a3500004e390000f2390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -464,7 +463,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c623000000000000c805000010060000
+    m_ExpandedInstanceIDs: c623000000000000c80500001006000090060000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -555,20 +554,20 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 82fbffff
-      m_LastClickedID: -1150
-      m_ExpandedIDs: c4fbffff
+      m_SelectedIDs: 1af8ffff
+      m_LastClickedID: -2022
+      m_ExpandedIDs: 1cf8ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 1st Part
-        m_OriginalName: 1st Part
+        m_Name: SOLVE_EXIT_LOCK_ROOM
+        m_OriginalName: SOLVE_EXIT_LOCK_ROOM
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -1444
+        m_UserData: -2022
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 0
@@ -613,9 +612,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -39.347908, y: 1.5850251, z: -42.14072}
+    m_Target: {x: 31.496845, y: -1.990747, z: 35.291744}
     speed: 2
-    m_Value: {x: -39.347908, y: 1.5850251, z: -42.14072}
+    m_Value: {x: 31.496845, y: -1.990747, z: 35.291744}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -643,13 +642,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.23935062, y: -0.6442798, z: 0.2230808, w: -0.6912669}
+    m_Target: {x: 0.2612926, y: -0.67045265, z: 0.27467576, w: 0.6377874}
     speed: 2
-    m_Value: {x: -0.23935062, y: -0.6442798, z: 0.2230808, w: -0.6912669}
+    m_Value: {x: 0.2612926, y: -0.67045265, z: 0.27467576, w: 0.6377874}
   m_Size:
-    m_Target: 2.0417268
+    m_Target: 16.054565
     speed: 2
-    m_Value: 2.0417268
+    m_Value: 16.054565
   m_Ortho:
     m_Target: 0
     speed: 2

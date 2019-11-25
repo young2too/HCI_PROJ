@@ -251,13 +251,13 @@
       <HintPath>C:/Users/LYG/Desktop/유니티 신버전/2018.4.12f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>C:/Users/LYG/Desktop/2019 2학기/인컴사/프로젝트/20191122/HCI-master - 복사본/The-Silent-Maze/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/LYG/Desktop/2019 2nd/HCI/project/20191124/HCI-master/The-Silent-Maze/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/LYG/Desktop/2019 2학기/인컴사/프로젝트/20191122/HCI-master - 복사본/The-Silent-Maze/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/LYG/Desktop/2019 2nd/HCI/project/20191124/HCI-master/The-Silent-Maze/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Users/LYG/Desktop/2019 2학기/인컴사/프로젝트/20191122/HCI-master - 복사본/The-Silent-Maze/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/LYG/Desktop/2019 2nd/HCI/project/20191124/HCI-master/The-Silent-Maze/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:\Users\LYG\Desktop\유니티 신버전\2018.4.12f1\Editor\Data\MonoBleedingEdge\lib\mono\unity\mscorlib.dll</HintPath>
@@ -300,14 +300,6 @@
       <Project>{C12CEEC6-100C-58A2-DE36-314E4DE5E40B}</Project>
       <Name>Unity.CollabProxy.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.TextMeshPro.csproj">
-      <Project>{07A21C90-D344-AE1A-8456-9910C203B41A}</Project>
-      <Name>Unity.TextMeshPro</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Analytics.DataPrivacy.csproj">
-      <Project>{D6E266C6-3D1F-28C8-9FEB-2A01E44DBF77}</Project>
-      <Name>Unity.Analytics.DataPrivacy</Name>
-    </ProjectReference>
     <ProjectReference Include="Oculus.VR.Editor.csproj">
       <Project>{9118B019-1FEF-914B-7CA9-E544A3C6DF5C}</Project>
       <Name>Oculus.VR.Editor</Name>
@@ -319,6 +311,14 @@
     <ProjectReference Include="Oculus.VR.csproj">
       <Project>{ABAA9E89-904E-F248-9658-14F9444302C5}</Project>
       <Name>Oculus.VR</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.TextMeshPro.csproj">
+      <Project>{07A21C90-D344-AE1A-8456-9910C203B41A}</Project>
+      <Name>Unity.TextMeshPro</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Analytics.DataPrivacy.csproj">
+      <Project>{D6E266C6-3D1F-28C8-9FEB-2A01E44DBF77}</Project>
+      <Name>Unity.Analytics.DataPrivacy</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
